@@ -27,15 +27,15 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivamnautiyal&show_icons=true&theme=radical" alt="Shivam's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ShivamNautiyal22&show_icons=true&theme=radical" alt="Shivam's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=shivamnautiyal&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ShivamNautiyal22&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamnautiyal&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamNautiyal22&layout=compact&theme=radical" />
 </p>
 
 ---
